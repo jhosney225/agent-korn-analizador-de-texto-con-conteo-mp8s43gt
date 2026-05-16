@@ -1,0 +1,6 @@
+{
+  "name": "agent-korn-analizador-de-texto-con-conteo-mp8s43gt",
+  "version": "1.0.0",
+  "description": "Proyecto de Korn [Gen25]: analizador de texto con conteo de palabras y estadisticas",
+  "main": "index.js"
+}
